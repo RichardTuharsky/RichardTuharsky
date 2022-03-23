@@ -3,7 +3,7 @@ My name is Richard and...
 
 ♛ I love playing chess
 
-👨‍💻 I am a big fan of Augmented Reality
+👨‍💻 I like to build software, it can be any
 
 ⚡ Fun fact: I enjoy combine mathematics and programming 
 
