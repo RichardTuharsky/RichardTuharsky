@@ -1,9 +1,7 @@
 ### Hi there 👋
 My name is Richard and...
 
-♛ I love playing chess
-
-👨‍💻 I like to build software, it can be any
+👨‍💻 I like to turn real world problems into algorithms
 
 ⚡ Fun fact: I enjoy combine mathematics and programming 
 
